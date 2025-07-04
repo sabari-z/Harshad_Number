@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 public class  findHarshadNumber{
     public static void main(String a[]){
         Scanner ss=new Scanner(System.in);
